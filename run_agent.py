@@ -14,7 +14,7 @@ print(f"Created thread, ID: {thread.id}")
 message = project.agents.messages.create(
     thread_id=thread.id,
     role="user",
-    content="Hello Agent"
+    content="Give a some good advice on Programing in Ai"
 )
 
 run = project.agents.runs.create_and_process(

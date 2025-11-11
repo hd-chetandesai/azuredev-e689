@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "azuredev-66c5",
+			"path": "../azuredev-66c5"
+		},
+		{
+			"name": "azuredev-e49a",
+			"path": "../azuredev-e49a"
+		}
+	],
+	"settings": {}
+}
